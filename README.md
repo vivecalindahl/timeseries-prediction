@@ -1,4 +1,4 @@
-# logistic-regression
+# timeseries-prediction
 
 A playground for timeseries predictions.
 
